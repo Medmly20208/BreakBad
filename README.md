@@ -1,2 +1,2 @@
 # BreakBad
-show infos about Breaking Bad Character 
+show infos about Breaking Bad Character such as Birthday , NickName
