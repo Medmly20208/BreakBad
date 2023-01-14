@@ -1,6 +1,7 @@
 # Breaking Bad app
 
 get data about breaking bad charcter such as nickname ,birthday and occupation
+the first personl project where I used an API
 
 # Demo
 
